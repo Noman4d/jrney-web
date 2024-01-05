@@ -7,3 +7,11 @@ li>a{
     text-decoration: none;
     color: cadetblue;
 }
+footer p {
+    font-size: 30px;
+
+}
+footer{
+    text-align: center;
+    margin-top: 30px;
+}
