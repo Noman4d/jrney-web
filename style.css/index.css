@@ -1,0 +1,9 @@
+nav >ul>li{
+    display: inline;
+    font-size: 30px;
+    margin: 0 20px 0 0;
+}
+li>a{
+    text-decoration: none;
+    color: cadetblue;
+}
